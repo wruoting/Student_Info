@@ -1,0 +1,1 @@
+g++ -g -Wall -o grades_v4 grades_v4.cpp grade.cpp median.cpp Student_info.cpp
